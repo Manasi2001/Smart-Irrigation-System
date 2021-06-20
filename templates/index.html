@@ -32,7 +32,7 @@
 
 <label>This special Smart Irrigation System is built using Machine Learning Algorithm-Random Forest, is '100%' accurate and takes into account surrounding temperature for predictions as well. Just enter the following:</label><br><br><br>
   
-<form method="POST">
+<form action="{{ url_for("green_hacks")}}" method="POST">
   
 <label for="mc">Moisture Content (in lb/cubic feet):</label>
 <input id="mc" name="m_c" type="text" placeholder="add moisture content" /><br><br><br>
