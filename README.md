@@ -13,9 +13,8 @@
 - The model built using Random Forest is also available for use [here](https://github.com/Manasi2001/Smart-Irrigation-System/blob/main/smartirrigation.pkl).
 - A web app has been built using flask (in python).
 - The app is successfully deployed on Heroku.
-- The final deployment could be viewed here -> http://garden-ramsay-24hours-to-smart-irrigation-and-back.study/ 
-  
-  (Thanks to GoDaddy and MLH for the domain name. 🤩)
+- The final deployment could be viewed here -> https://the-smart-irrigation-system.herokuapp.com/
+ 
   
   
   
