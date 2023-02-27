@@ -12,8 +12,8 @@
 ## ⚙ Technicalities of the Project
 - The model built using Random Forest is also available for use [here](https://github.com/Manasi2001/Smart-Irrigation-System/blob/main/smartirrigation.pkl).
 - A web app has been built using flask (in python).
-- The app is successfully deployed on Heroku.
-- The final deployment could be viewed here -> https://the-smart-irrigation-system.herokuapp.com/
+- The app is successfully deployed on Render.
+- The final deployment could be viewed here -> https://smart-irrigation-system.onrender.com/
  
   
   
